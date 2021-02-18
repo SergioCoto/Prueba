@@ -1,4 +1,4 @@
-Esto es una prueba con el fin de aprender a utilizar git y github
+Esto es una prueba con el fin de aprender a utilizar git y github. Ahora le agregamos una rama
 
 Primera línea
 Segunda línea
@@ -9,3 +9,4 @@ Sexta línea
 Sétima línea
 
 Vamo a ver qué pasa
+Funcionamiento del branch
