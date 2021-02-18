@@ -1,5 +1,5 @@
 Esto es una prueba con el fin de aprender a utilizar git y github. Ahora le agregamos una rama
-
+En la rama 2 le agregamos esta línea
 Primera línea
 Segunda línea
 Tercera línea
